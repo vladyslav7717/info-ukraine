@@ -1,0 +1,4 @@
+# Fichier local avec le hash du mot de passe : ne jamais publier
+config.php
+# Outil temporaire de génération du hash
+admin/hash.php
